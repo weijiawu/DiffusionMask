@@ -1,0 +1,6 @@
+@article{li2023grounded,
+  author = {Li, Ziyi and Zhou, Qinye and Zhang, Xiaoyun and Zhang, Ya and Wang, Yanfeng and Xie, Weidi},
+  title = {Guiding Text-to-Image Diffusion Model Towards Grounded Generation},
+  journal = {arXiv:2301.05221},
+  year = {2023}
+}
